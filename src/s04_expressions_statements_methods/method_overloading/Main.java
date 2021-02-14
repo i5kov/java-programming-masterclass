@@ -1,4 +1,4 @@
-package section04.method_overloading;
+package s04_expressions_statements_methods.method_overloading;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package section04.methods;
+package s04_expressions_statements_methods.methods;
 
 public class Main {
 

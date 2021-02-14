@@ -1,4 +1,4 @@
-package section04.if_statement_and_code_blocks;
+package s04_expressions_statements_methods.if_statement_and_code_blocks;
 
 public class Main {
 
