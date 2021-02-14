@@ -1,4 +1,4 @@
-package section04.challenge_seconds_and_minutes;
+package s04_expressions_statements_methods.challenge_seconds_and_minutes;
 
 public class SecondsAndMinutesChallenge {
 

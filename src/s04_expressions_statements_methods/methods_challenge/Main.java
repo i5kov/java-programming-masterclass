@@ -1,4 +1,4 @@
-package section04.methods_challenge;
+package s04_expressions_statements_methods.methods_challenge;
 
 public class Main {
 

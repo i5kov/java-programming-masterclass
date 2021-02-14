@@ -1,4 +1,4 @@
-package section04.keywords_and_expressions;
+package s04_expressions_statements_methods.keywords_and_expressions;
 
 public class Main {
 
