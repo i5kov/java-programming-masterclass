@@ -1,0 +1,17 @@
+package s11_naming_conventions_and_packages_static_and_final_keywords.access_modifiers;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Account timsAccount = new Account("Tim");
+        timsAccount.deposit(1000);
+        timsAccount.withdraw(500);
+        timsAccount.withdraw(-200);
+        timsAccount.deposit(-20);
+        timsAccount.calculateBalance();
+        timsAccount.setBalance(5000);
+
+        System.out.println("Balance on account is " + timsAccount.getBalance());
+        timsAccount.calculateBalance();
+    }
+}
